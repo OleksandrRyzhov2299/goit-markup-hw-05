@@ -419,6 +419,7 @@ button {
 
 .subscribe {
   gap: 12px;
+  margin-left: auto;
 }
 
 .subscribe-text {
