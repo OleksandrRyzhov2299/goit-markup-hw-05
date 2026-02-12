@@ -603,7 +603,7 @@ button {
   outline: transparent;
 }
 
-.modal-input:focus,
+.modal-input:focus + .icon.input,
 .modal-text:focus {
   border-color: var(--primary-brand);
   outline: none;
